@@ -1,12 +1,43 @@
-# Tags: latest, 1.4.0-debian-10-r0, 1.4.0, 1-debian-10, 1
+# Tags: latest, 1.4.1-debian-10-r6, 1.4.1, 1-debian-10, 1
 FROM bitnami/grafana-tempo:latest
-FROM bitnami/grafana-tempo:1.4.0-debian-10-r0
-FROM bitnami/grafana-tempo:1.4.0
+FROM bitnami/grafana-tempo:1.4.1-debian-10-r6
+FROM bitnami/grafana-tempo:1.4.1
 FROM bitnami/grafana-tempo:1-debian-10
 FROM bitnami/grafana-tempo:1
 
 # Tags: _
 FROM bitnami/grafana-tempo:_
+
+# Tags: 1.4.1-debian-10-r5
+FROM bitnami/grafana-tempo:1.4.1-debian-10-r5
+
+# Tags: 1.4.1-debian-10-r4
+FROM bitnami/grafana-tempo:1.4.1-debian-10-r4
+
+# Tags: 1.4.1-debian-10-r3
+FROM bitnami/grafana-tempo:1.4.1-debian-10-r3
+
+# Tags: 1.4.1-debian-10-r2
+FROM bitnami/grafana-tempo:1.4.1-debian-10-r2
+
+# Tags: 1.4.1-debian-10-r1
+FROM bitnami/grafana-tempo:1.4.1-debian-10-r1
+
+# Tags: 1.4.1-debian-10-r0
+FROM bitnami/grafana-tempo:1.4.1-debian-10-r0
+
+# Tags: 1.4.0-debian-10-r3, 1.4.0
+FROM bitnami/grafana-tempo:1.4.0-debian-10-r3
+FROM bitnami/grafana-tempo:1.4.0
+
+# Tags: 1.4.0-debian-10-r2
+FROM bitnami/grafana-tempo:1.4.0-debian-10-r2
+
+# Tags: 1.4.0-debian-10-r1
+FROM bitnami/grafana-tempo:1.4.0-debian-10-r1
+
+# Tags: 1.4.0-debian-10-r0
+FROM bitnami/grafana-tempo:1.4.0-debian-10-r0
 
 # Tags: 1.3.2-debian-10-r60, 1.3.2
 FROM bitnami/grafana-tempo:1.3.2-debian-10-r60
@@ -59,30 +90,3 @@ FROM bitnami/grafana-tempo:1.3.2-debian-10-r45
 
 # Tags: 1.3.2-debian-10-r44
 FROM bitnami/grafana-tempo:1.3.2-debian-10-r44
-
-# Tags: 1.3.2-debian-10-r43
-FROM bitnami/grafana-tempo:1.3.2-debian-10-r43
-
-# Tags: 1.3.2-debian-10-r42
-FROM bitnami/grafana-tempo:1.3.2-debian-10-r42
-
-# Tags: 1.3.2-debian-10-r41
-FROM bitnami/grafana-tempo:1.3.2-debian-10-r41
-
-# Tags: 1.3.2-debian-10-r40
-FROM bitnami/grafana-tempo:1.3.2-debian-10-r40
-
-# Tags: 1.3.2-debian-10-r39
-FROM bitnami/grafana-tempo:1.3.2-debian-10-r39
-
-# Tags: 1.3.2-debian-10-r38
-FROM bitnami/grafana-tempo:1.3.2-debian-10-r38
-
-# Tags: 1.3.2-debian-10-r37
-FROM bitnami/grafana-tempo:1.3.2-debian-10-r37
-
-# Tags: 1.3.2-debian-10-r36
-FROM bitnami/grafana-tempo:1.3.2-debian-10-r36
-
-# Tags: 1.3.2-debian-10-r35
-FROM bitnami/grafana-tempo:1.3.2-debian-10-r35
